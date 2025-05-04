@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinTrack Pro</string>
+
+    <!-- Navigation -->
+    <string name="title_dashboard">Financial Overview</string>
+    <string name="title_transactions">Transaction History</string>
+    <string name="title_budget">Financial Planning</string>
+    <string name="title_settings">App Settings</string>
+    <string name="title_add_transaction">Record Transaction</string>
+    <string name="title_edit_transaction">Update Transaction</string>
+
+    <!-- Transaction -->
+    <string name="hint_title">Description</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_type">Type</string>
+    <string name="hint_currency">Currency</string>
+    <string name="type_income">Earnings</string>
+    <string name="type_expense">Spending</string>
+    <string name="no_transactions">No transactions found</string>
+
+    <!-- Budget -->
+    <string name="hint_monthly_budget">Monthly Spending Limit</string>
+    <string name="budget_warning">Warning: Low budget remaining</string>
+    <string name="budget_exceeded">Budget exceeded!</string>
+
+    <!-- Settings -->
+    <string name="settings_currency">Currency Options</string>
+    <string name="settings_backup">Backup Data</string>
+    <string name="settings_restore">Restore Data</string>
+    <string name="settings_notifications">Alerts</string>
+
+    <!-- Messages -->
+    <string name="msg_transaction_saved">Transaction saved</string>
+    <string name="msg_transaction_deleted">Transaction deleted</string>
+    <string name="msg_budget_updated">Budget updated</string>
+    <string name="msg_backup_success">Backup complete</string>
+    <string name="msg_restore_success">Restore complete</string>
+    <string name="msg_error">Error occurred</string>
+
+    <!-- Buttons -->
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- New strings from the code block -->
+    <string name="total_balance">Available Balance</string>
+    <string name="income">Earnings</string>
+    <string name="expense">Spending</string>
+    <string name="save">Save</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="add_transaction">Add New</string>
+    <string name="edit_transaction">Edit</string>
+    <string name="delete_transaction">Delete</string>
+
+    <string-array name="transaction_categories">
+        <item>Salary</item>
+        <item>Freelance</item>
+        <item>Investments</item>
+        <item>Gifts</item>
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Housing</item>
+        <item>Utilities</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Healthcare</item>
+        <item>Education</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="currency_usd">USD ($)</string>
+    <string name="currency_lkr">LKR (රු)</string>
+
+
+
+</resources>
